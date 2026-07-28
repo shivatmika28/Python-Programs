@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,Salary,ProjectsCompleted,Rating
+101,Alice,AI,85000,8,4.5
+102,Bob,Web,72000,5,3.8
+103,Charlie,AI,91000,10,4.9
+104,David,Cloud,68000,3,2.9
+105,Eva,Web,75000,6,4.1
+106,Frank,AI,91000,10,4.9
+107,Grace,Cloud,90000,9,4.8
+108,Helen,Web,45000,1,2.5
