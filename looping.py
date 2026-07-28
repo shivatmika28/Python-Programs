@@ -13,12 +13,12 @@ list(range(5,51,5))
 list(range(51,5,-5))
 list(range(50,5,-5))
 list(range(50,4,-5))
-
+# %%
 for i in range(10):
     print("Shivatmika")
     
     
-    
+# %%    
 n=int(input("Enter the number of time the name has to be displayed"))
 for i in range(n):
     print("Shivatmika")
